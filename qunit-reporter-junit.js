@@ -145,8 +145,6 @@
 			currentModule.total = data.total;
 			currentModule.passed = data.passed;
 			currentModule.failed = data.failed;
-
-			currentModule = null;
 		}
 	};
 
